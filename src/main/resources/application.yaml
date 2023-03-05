@@ -6,7 +6,7 @@ application:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://loclahost:3306/ohwoonwan_db?serverTimezone=Asia/Seoul
+    url: jdbc:mysql://localhost:3306/ohwoonwan_db?serverTimezone=Asia/Seoul
     username: root
     password: 1234
 
