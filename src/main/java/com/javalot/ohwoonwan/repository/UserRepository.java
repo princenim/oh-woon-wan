@@ -1,4 +1,4 @@
-package com.javalot.ohwoonwan.repositories;
+package com.javalot.ohwoonwan.repository;
 
 import org.springframework.data.repository.CrudRepository;
 import com.javalot.ohwoonwan.domain.User;
